@@ -90,6 +90,7 @@ footer a {
  	margin: 3%;
  	background : rgba(105, 105, 105, 0.8);
  	float: left;
+ 	text-align: justify;
     max-width: 68%;
     max-height: 30%;   
  }
